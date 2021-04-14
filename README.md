@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **leonardogonfiantini/leonardogonfiantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,16 +21,16 @@ Hi everyone, I'm trying to learn programming languages ​​that will make me a
 I'm interested in learning:
 - Machine learning
 - Data science
--Blockchain
+- Blockchain
 
 the programming languages ​​I am learning are:
--c ++ / c
--solidity
--Java
+- c ++ / c
+- solidity
+- java
 
 programming languages ​​I want to learn:
--start
--javascript
--python
+- go
+- javascript
+- python
 
 
