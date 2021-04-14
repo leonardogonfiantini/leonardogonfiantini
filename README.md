@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/VXJWhaO7afRe/giphy.gif" width="1000" height="600" /> 
+<img src="https://media.giphy.com/media/VXJWhaO7afRe/giphy.gif" width="800" height="600" /> 
 
 <!--
 **leonardogonfiantini/leonardogonfiantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
