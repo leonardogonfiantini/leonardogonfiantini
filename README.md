@@ -16,21 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-Hi everyone, I'm trying to learn programming languages ​​that will make me a blockchain developer.
-
-I'm interested in learning:
-- Machine learning
-- Data science
-- Blockchain
-
-the programming languages ​​I am learning are:
-- c ++ / c
-- solidity
-- java
-
-programming languages ​​I want to learn:
-- go
-- javascript
-- python
-
-
