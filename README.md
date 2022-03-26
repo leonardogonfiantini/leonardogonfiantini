@@ -5,7 +5,7 @@ I am a student of computer science at the third year from italy :it:. <br>
 Of all the things i have studied i become in love about web development, in particularly the development of web apps.
 
 - :books: Im studying new js libraries
-- :trophy: In my free time i try to resolve some codeforces challenges
+- :trophy: In my free time i try to resolve codeforces challenges
 - :neutral_face: Saitama fan 
 
 ----
