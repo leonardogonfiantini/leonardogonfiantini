@@ -40,7 +40,6 @@ jobs:
           plugin_languages_threshold: 2%
           plugin_lines: yes
           plugin_notable: yes
-          plugin_notable_filter: stars:>100
           plugin_notable_from: organization
           plugin_notable_indepth: yes
           plugin_rss: yes
@@ -55,7 +54,7 @@ jobs:
 
           # Options
           filename: metrics2.svg
-          user: sapphi-red
+          user: leonardogonfiantini
           base: ""
           config_timezone: Europe/Rome
           config_twemoji: yes
