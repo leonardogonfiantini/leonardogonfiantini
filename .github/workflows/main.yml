@@ -38,6 +38,7 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 2%
+          plugin_languages_ignored: php
           plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: organization
@@ -56,6 +57,7 @@ jobs:
           base: ""
           config_timezone: Europe/Rome
           config_twemoji: yes
+          plugin_activity: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
