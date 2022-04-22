@@ -42,8 +42,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_indepth: yes
-          plugin_rss: yes
-          plugin_rss_limit: 4
           use_prebuilt_image: yes
 
       - name: Metrics 2
