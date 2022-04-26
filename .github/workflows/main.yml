@@ -40,9 +40,6 @@ jobs:
           plugin_languages_threshold: 2%
           plugin_languages_ignored: PHP
           plugin_lines: yes
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_indepth: yes
           use_prebuilt_image: yes
 
       - name: Metrics 2
@@ -57,9 +54,10 @@ jobs:
           base: ""
           config_timezone: Europe/Rome
           config_twemoji: yes
-          plugin_activity: yes
-          plugin_activity_limit: 1
-          plugin_activity_load: 1
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: starred
+          plugin_topics_sort: stars
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
