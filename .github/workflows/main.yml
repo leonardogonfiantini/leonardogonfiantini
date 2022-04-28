@@ -54,13 +54,12 @@ jobs:
           base: ""
           config_timezone: Europe/Rome
           config_twemoji: yes
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
           plugin_achievements: yes
-          plugin_achievements_display: detailed
+          plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          
           use_prebuilt_image: yes
