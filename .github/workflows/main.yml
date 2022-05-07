@@ -53,6 +53,8 @@ jobs:
           user: leonardogonfiantini
           base: ""
           config_timezone: Europe/Rome
+          plugin_topics: yes
+          plugin_topics_mode: icons
           config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
