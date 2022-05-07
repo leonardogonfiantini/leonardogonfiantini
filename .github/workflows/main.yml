@@ -55,6 +55,7 @@ jobs:
           config_timezone: Europe/Rome
           plugin_topics: yes
           plugin_topics_mode: icons
+          plugin_topics_limit: 0
           config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
