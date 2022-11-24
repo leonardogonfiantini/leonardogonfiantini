@@ -63,6 +63,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity_limit: 3
           
           use_prebuilt_image: yes
