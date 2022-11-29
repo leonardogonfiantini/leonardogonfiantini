@@ -39,7 +39,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 2%
           plugin_languages_ignored: PHP, TeX, CSS, SCSS
-          plugin_lines: yes
           use_prebuilt_image: yes
 
       - name: Metrics 2
@@ -63,6 +62,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_stars: yes
+          plugin_lines: yes
           plugin_stars_limit: 3
           
           use_prebuilt_image: yes
